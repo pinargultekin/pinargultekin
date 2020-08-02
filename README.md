@@ -1,10 +1,5 @@
 <div align="left">
 <img height="300" alt="Hello" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/hello.jpg">
-</div>
-
-# 
-<div align="left">
-
 <img height="300" alt="Tools" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/tools.jpg">
 
 </div>
