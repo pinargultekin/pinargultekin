@@ -1,6 +1,6 @@
 <div align="left">
-<img height="300" alt="Hello" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/hello.jpg">
-<img height="300" alt="Tools" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/tools.jpg">
+<img height="300" width="800" alt="Hello" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/hello.jpg">
+<img height="300" width="800" alt="Tools" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/tools.jpg">
 
 </div>
 <h3> Connect </h3>
