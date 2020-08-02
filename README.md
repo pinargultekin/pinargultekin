@@ -14,13 +14,7 @@
 
 <h3> Tools & Languages </h3>
 <div align="left">
-<img height="30" alt="HTML5" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/html.svg">
-<img height="30" alt="CSS3" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/css.svg">
-<img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/js.svg">
-<img height="30" alt="React.js" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/react.js.svg">
-<img height="30" alt="Sass" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/sass.svg">
-<img height="30" alt="MySQL" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/mysql.svg">
-<img height="30" alt="MongoDB" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/mongodb.svg">
-<img height="30" alt="Node.js" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/nodejs-icon.svg">
-<img height="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/vscode.svg">
+
+<img height="300" alt="Tools" src="https://raw.githubusercontent.com/pinargultekin/pinargultekin/master/images/tools.jpg">
+
 </div>
