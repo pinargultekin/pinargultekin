@@ -13,7 +13,7 @@
 <img src="./images/react.js.svg" height="40">
 <img src="./images/php.svg" height="40"><br>
 <img src="./images/mongodb.svg" height="40">
-<img src="./images/mysql.svg" height="35"><br>
+<img src="./images/mysql.svg" height="40"><br>
 </div>
 <br>
 <h3><b> Connect </b></h3>
